@@ -3376,9 +3376,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@patternfly/documentation-framework@npm:6.51.6":
-  version: 6.51.6
-  resolution: "@patternfly/documentation-framework@npm:6.51.6"
+"@patternfly/documentation-framework@npm:6.51.7":
+  version: 6.51.7
+  resolution: "@patternfly/documentation-framework@npm:6.51.7"
   dependencies:
     "@babel/core": "npm:^7.29.0"
     "@babel/preset-env": "npm:7.29.0"
@@ -3448,7 +3448,7 @@ __metadata:
     react-dom: ^17.0.0 || ^18.0.0
   bin:
     pf-docs-framework: scripts/cli/cli.js
-  checksum: 10c0/508206ad3d47eae628810a77fa27804b025050f2e59315e104a088f31197e2c60a4c0bd4586fa7f5c34d1d26e054666ae03fe9a67ca441097d91a8e74e238a0f
+  checksum: 10c0/0a1ab1de8329230982f4c8d0ec76d74d24cca24f112b76a6818531c23367fd69be1f8d3e3072d9ddbfc532503dce71a8aaa68438783a341413722c61637d2bde
   languageName: node
   linkType: hard
 
@@ -3500,7 +3500,7 @@ __metadata:
     "@commitlint/config-conventional": "npm:^19.1.0"
     "@fortawesome/fontawesome": "npm:^1.1.8"
     "@octokit/rest": "npm:^20.1.0"
-    "@patternfly/documentation-framework": "npm:6.51.6"
+    "@patternfly/documentation-framework": "npm:6.51.7"
     "@patternfly/patternfly-a11y": "npm:5.2.1"
     "@patternfly/react-code-editor": "npm:6.6.1"
     "@patternfly/react-core": "npm:6.6.1"
@@ -19166,12 +19166,12 @@ __metadata:
   linkType: hard
 
 "stylelint-config-recess-order@npm:^7.7.0":
-  version: 7.7.0
-  resolution: "stylelint-config-recess-order@npm:7.7.0"
+  version: 7.8.0
+  resolution: "stylelint-config-recess-order@npm:7.8.0"
   peerDependencies:
     stylelint: ^16.18.0 || ^17.0.0
     stylelint-order: ^7.0.0 || ^8.0.0
-  checksum: 10c0/4e94581c9a44d46e498d519bd516c021a399a5d8689a5bf9e32b3eeb0b5d7b95548f987d77c5fcf9da1ca4e5061e45aa368176f05c928383ce417d4ffe5d7ebb
+  checksum: 10c0/a78bda6f8c6cf38c9844b716c88ca85edd8ba063a22be4da108ff9798a9484f5041a3aff16838282c8d9eb88e49102bdfa1dd95f0d78b1486ce0467f645b8845
   languageName: node
   linkType: hard
 
